@@ -6,4 +6,4 @@ Index.html files contain all the basic structure.
 
 The main.css file contains all the cosmetics of the app.
 
-The main.js file has all the functions to perform operations such as add, delete, and much more.
+The main.js file has all the functions to perform operations such as add, delete, and much more. This is a script file.
